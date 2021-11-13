@@ -1,0 +1,16 @@
+{
+  "name": "chart-render",
+  "author": "jianxinliu",
+  "description": "an chart render service",
+  "main": "ChartRender.js",
+  "scripts": {
+    "serve": "node ./ChartRender.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-echart5": "^1.0.0",
+    "canvas": "^2.7.0",
+    "echarts": "^5.0.2",
+    "fs": "0.0.1-security"
+  }
+}
